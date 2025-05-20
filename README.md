@@ -1,1 +1,2 @@
-Activity about algorithms fundamentals, envolving exercices went through the classes
+Activity about algorithms fundamentals, envolving a register of an employee and if he is inside the company or not
+
